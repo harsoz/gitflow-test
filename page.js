@@ -7,4 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
     boton.addEventListener('click', () => {
         mensaje.textContent = 'Excelente, now it isexecuted';
     });
+
+    console.log('Event listener for button click has been set up');
 });
