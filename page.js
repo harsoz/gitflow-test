@@ -7,4 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
         mensaje.textContent = 'Excelente, now it isexecuted';
     });
 
+    console.log('El DOM ha sido completamente cargado y analizado.');
+
 });
