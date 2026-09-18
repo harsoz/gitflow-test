@@ -8,7 +8,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     console.log('El DOM ha sido completamente cargado y analizado.');
-    console.log('El DOM ha sido completamente cargado y analizado.');
-    console.log('El DOM ha sido completamente cargado y analizado.');
 
 });
