@@ -3,6 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const mensaje = document.getElementById('mensaje');
 
     boton.addEventListener('click', () => {
-        mensaje.textContent = '¡Excelente! El archivo JavaScript se ha ejecutado correctamente.';
+        mensaje.textContent = 'Excelente, now it isexecuted';
     });
 });
