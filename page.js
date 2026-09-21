@@ -14,7 +14,10 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('This is a test for the new branch: 2');
     console.log('This is a test for the new branch: 6');
     console.log('This is a test for the new branch: 7');
+    console.log('This is a test for the new branch: 9');
     console.log('This is a test for the new branch: 10');
     console.log('This is a test for the new branch: 13');
+    console.log('This is a test for the new branch: 11');
+
 
 });
