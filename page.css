@@ -31,6 +31,14 @@ header {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+.header-6 {
+    background-color: #0056b3;
+    color: white;
+    padding: 1.5rem;
+    width: 100%;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
 .header-7 {
     background-color: #0056b3;
     color: white;
