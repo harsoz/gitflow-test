@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     boton.addEventListener('click', () => {
         mensaje.textContent = 'Excelente, now it isexecuted';
     });
+    console.log('This is a test for the new branch: 8');
 
     console.log('El DOM ha sido completamente cargado y analizado.');
 
