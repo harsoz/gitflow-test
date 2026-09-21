@@ -9,4 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     console.log('El DOM ha sido completamente cargado y analizado.');
 
+    console.log('This is a test for the new branch: 1');
+    console.log('This is a test for the new branch: 2');
+
 });
